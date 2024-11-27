@@ -1,7 +1,3 @@
-# Blaster Faster 360
-
-GameMaker Studio 2 Code-Along with course content from https://www.udemy.com/be-a-game-maker-with-gamemaker-studio-2/
-
 The game is a simple asteroids-like clone with an enemy wave spawner and stored highscores.
 
 ## Controls
